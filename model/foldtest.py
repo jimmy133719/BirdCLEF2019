@@ -194,7 +194,7 @@ if __name__ == "__main__":
     model = inception_v3().to(device)
 
     
-    for i in range(9,11):
+    for i in range(11):
         pred_= np.zeros((0,1))
         target_ = np.zeros((0,1))
         c = 0
