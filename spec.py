@@ -1,6 +1,5 @@
 # Use this file to extract spectrograms from your training set
 # which needs to be organized in subfolders representing class names.
-# Author: Stefan Kahl, 2018, Chemnitz University of Technology
 
 import os
 import time
