@@ -1,6 +1,6 @@
 # This file includes basic functionality for image processing
 # including i/o handling, image augmentation and model input pre-processing
-# Author: Stefan Kahl, 2018, Chemnitz University of Technology
+
 
 import sys
 sys.path.append("..")
