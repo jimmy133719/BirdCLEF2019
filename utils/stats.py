@@ -1,6 +1,5 @@
 # This file contains basic statistics functionality. All runtime values are stored
 # and can be referenced by name for further usage.
-# Author: Stefan Kahl, 2018, Chemnitz University of Technology
 
 import sys
 sys.path.append("..")
