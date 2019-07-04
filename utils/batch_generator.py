@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # This file includes functionality for (multi-threaded) batch generation.
-# Author: Stefan Kahl, 2018, University of Technology Chemnitz
 
 import sys
 sys.path.append("..")
