@@ -1,5 +1,5 @@
 # This files handles log messages with support for different log-modes.
-# Author: Stefan Kahl, 2018, Chemnitz University of Technology
+
 
 import sys
 sys.path.append("..")
