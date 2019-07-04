@@ -1,5 +1,4 @@
 # This file stores all settings used for spectrogram extraction, training and testing
-# Author: Stefan Kahl, 2018, Chemnitz University of Technology
 
 import os
 import numpy as np
